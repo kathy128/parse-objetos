@@ -1,2 +1,0 @@
-# parse-objetos
-proyecto objetos
